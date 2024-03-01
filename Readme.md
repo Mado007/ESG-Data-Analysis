@@ -17,13 +17,15 @@ To analyze the ESG data using Python, follow these steps:
 
 1. Clone this repository to your local machine:
 
+```bash
 git clone https://github.com/Mado007/ESG-Data-Analysis.git
-
+```
 
 2. Install the required Python dependencies using pip:
 
+```bash
 pip install -r requirements.txt
-
+```
 
 3. Run the Python scripts provided in the repository to perform data analysis tasks. You can use Jupyter Notebook or any Python IDE to execute the scripts.
 
